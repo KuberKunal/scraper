@@ -1,0 +1,1000 @@
+n312\Lib\site-packages\chardet\langgreekmodel.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\langgreekmodel.cpython-312.pyc'
+import 'chardet.langgreekmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2156990>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\__pycache__\langhebrewmodel.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\langhebrewmodel.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\langhebrewmodel.cpython-312.pyc'
+import 'chardet.langhebrewmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2156A80>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\__pycache__\langrussianmodel.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\langrussianmodel.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\langrussianmodel.cpython-312.pyc'
+import 'chardet.langrussianmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2156B40>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\__pycache__\langthaimodel.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\langthaimodel.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\langthaimodel.cpython-312.pyc'
+import 'chardet.langthaimodel' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2156CC0>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\__pycache__\langturkishmodel.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\langturkishmodel.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\langturkishmodel.cpython-312.pyc'
+import 'chardet.langturkishmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2156DE0>
+import 'chardet.sbcsgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2155BB0>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\__pycache__\utf1632prober.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\utf1632prober.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\utf1632prober.cpython-312.pyc'
+import 'chardet.utf1632prober' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2156C30>
+import 'chardet.universaldetector' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2074AA0>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\__pycache__\version.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\chardet\version.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__pycache__\\version.cpython-312.pyc'
+import 'chardet.version' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2157290>
+import 'chardet' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D206B530>
+import 'bs4.dammit' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D1FA7D40>
+import 'bs4.formatter' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D1FA7A70>
+import 'bs4.element' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D1F7EC30>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\bs4\builder\__pycache__\_htmlparser.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\bs4\builder\_htmlparser.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\__pycache__\\_htmlparser.cpython-312.pyc'
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\html\__pycache__\parser.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\html\parser.py  
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__pycache__\\parser.cpython-312.pyc'
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\__pycache__\_markupbase.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\_markupbase.py  
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__pycache__\\_markupbase.cpython-312.pyc'
+import '_markupbase' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D21B6840>
+import 'html.parser' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D2157740>
+import 'bs4.builder._htmlparser' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D21A2A50>
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\bs4\builder\__pycache__\_html5lib.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\bs4\builder\_html5lib.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\__pycache__\\_html5lib.cpython-312.pyc'
+# destroy bs4.builder._html5lib
+# C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\bs4\builder\__pycache__\_lxml.cpython-312.pyc matches C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\bs4\builder\_lxml.py
+# code object from 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\__pycache__\\_lxml.cpython-312.pyc'
+# destroy bs4.builder._lxml
+import 'bs4.builder' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D1F7D5E0>
+import 'bs4' # <_frozen_importlib_external.SourceFileLoader object at 0x000001F4D1F7C320>
+# clear sys.path_importer_cache
+# clear sys.path_hooks
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_exc
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.__interactivehook__
+# clear sys.meta_path
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing winreg
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing _winapi
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing encodings.utf_8_sig
+# cleanup[2] removing _distutils_hack
+# destroy _distutils_hack
+# cleanup[2] removing pywin32_system32
+# cleanup[2] removing pywin32_bootstrap
+# destroy pywin32_bootstrap
+# destroy pywin32_system32
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing selenium
+# destroy selenium
+# cleanup[2] removing selenium.webdriver.chrome
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing collections.abc
+# cleanup[2] removing copyreg
+# cleanup[2] removing types
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing contextlib
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing re._constants
+# cleanup[2] removing re._parser
+# cleanup[2] removing re._casefix
+# cleanup[2] removing re._compiler
+# cleanup[2] removing re
+# cleanup[2] removing warnings
+# cleanup[2] removing _typing
+# cleanup[2] removing typing
+# cleanup[2] removing selenium.webdriver.chromium
+# cleanup[2] removing _struct
+# cleanup[2] removing struct
+# cleanup[2] removing binascii
+# cleanup[2] removing base64
+# cleanup[2] removing selenium.webdriver.common
+# cleanup[2] removing selenium.webdriver.common.desired_capabilities
+# cleanup[2] removing selenium.common.exceptions
+# cleanup[2] removing selenium.common
+# destroy selenium.common
+# destroy selenium.common.exceptions
+# cleanup[2] removing selenium.webdriver.common.proxy
+# cleanup[2] removing selenium.webdriver.common.options
+# cleanup[2] removing selenium.webdriver.chromium.options
+# cleanup[2] removing selenium.webdriver.chrome.options
+# cleanup[2] removing selenium.types
+# destroy selenium.types
+# cleanup[2] removing errno
+# cleanup[2] removing token
+# cleanup[2] removing _tokenize
+# cleanup[2] removing tokenize
+# cleanup[2] removing linecache
+# cleanup[2] removing textwrap
+# cleanup[2] removing traceback
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing weakref
+# cleanup[2] removing _string
+# cleanup[2] removing string
+# cleanup[2] removing threading
+# cleanup[2] removing atexit
+# cleanup[2] removing logging
+# cleanup[2] removing _locale
+# cleanup[2] removing locale
+# cleanup[2] removing signal
+# cleanup[2] removing msvcrt
+# cleanup[2] removing subprocess
+# cleanup[2] removing _wmi
+# cleanup[2] removing platform
+# cleanup[2] removing urllib
+# cleanup[2] removing _bisect
+# cleanup[2] removing bisect
+# cleanup[2] removing email
+# cleanup[2] removing _hashlib
+# cleanup[2] removing _blake2
+# cleanup[2] removing hashlib
+# cleanup[2] removing http
+# cleanup[2] removing email.errors
+# cleanup[2] removing email.quoprimime
+# cleanup[2] removing email.base64mime
+# cleanup[2] removing quopri
+# cleanup[2] removing email.encoders
+# cleanup[2] removing email.charset
+# cleanup[2] removing email.header
+# cleanup[2] removing math
+# cleanup[2] removing _random
+# cleanup[2] removing _sha2
+# cleanup[2] removing random
+# cleanup[2] removing _socket
+# cleanup[2] removing select
+# cleanup[2] removing selectors
+# cleanup[2] removing socket
+# cleanup[2] removing _datetime
+# cleanup[2] removing datetime
+# cleanup[2] removing ipaddress
+# cleanup[2] removing urllib.parse
+# cleanup[2] removing calendar
+# cleanup[2] removing email._parseaddr
+# cleanup[2] removing email.utils
+# cleanup[2] removing email._policybase
+# cleanup[2] removing email.feedparser
+# cleanup[2] removing email.parser
+# cleanup[2] removing email._encoded_words
+# cleanup[2] removing email.iterators
+# cleanup[2] removing email.message
+# cleanup[2] removing _ssl
+# cleanup[2] removing ssl
+# cleanup[2] removing http.client
+# cleanup[2] removing posixpath
+# cleanup[2] removing fnmatch
+# cleanup[2] removing zlib
+# cleanup[2] removing _compression
+# cleanup[2] removing _bz2
+# cleanup[2] removing bz2
+# cleanup[2] removing _lzma
+# cleanup[2] removing lzma
+# cleanup[2] removing shutil
+# cleanup[2] removing tempfile
+# cleanup[2] removing urllib.response
+# cleanup[2] removing urllib.error
+# cleanup[2] removing nturl2path
+# destroy nturl2path
+# cleanup[2] removing urllib.request
+# cleanup[2] removing selenium.webdriver.common.keys
+# cleanup[2] removing selenium.webdriver.common.utils
+# cleanup[2] removing selenium.webdriver.common.service
+# cleanup[2] removing selenium.webdriver.chromium.service
+# cleanup[2] removing selenium.webdriver.chrome.service
+# cleanup[2] removing selenium.webdriver.remote
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing importlib
+# cleanup[2] removing pathlib
+# cleanup[2] removing _ast
+# destroy _ast
+# cleanup[2] removing ast
+# cleanup[2] removing _opcode
+# cleanup[2] removing opcode
+# destroy opcode
+# cleanup[2] removing dis
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing inspect
+# cleanup[2] removing importlib.resources.abc
+# cleanup[2] removing importlib.resources._adapters
+# cleanup[2] removing importlib.resources._common
+# cleanup[2] removing importlib.resources._legacy
+# cleanup[2] removing importlib.resources
+# cleanup[2] removing certifi.core
+# cleanup[2] removing certifi
+# cleanup[2] removing selenium.webdriver.remote.client_config
+# cleanup[2] removing __future__
+# destroy __future__
+# cleanup[2] removing urllib3.exceptions
+# cleanup[2] removing urllib3.util.timeout
+# cleanup[2] removing urllib3.util.connection
+# cleanup[2] removing urllib3.util.util
+# cleanup[2] removing urllib3.util.request
+# cleanup[2] removing urllib3.util.response
+# cleanup[2] removing urllib3.util.retry
+# cleanup[2] removing hmac
+# cleanup[2] removing urllib3.util.url
+# cleanup[2] removing urllib3.util.ssltransport
+# cleanup[2] removing urllib3.util.ssl_
+# cleanup[2] removing urllib3.util.wait
+# cleanup[2] removing urllib3.util
+# cleanup[2] removing urllib3._base_connection
+# cleanup[2] removing urllib3._collections
+# cleanup[2] removing urllib3._version
+# cleanup[2] removing _heapq
+# cleanup[2] removing heapq
+# destroy heapq
+# cleanup[2] removing _queue
+# cleanup[2] removing queue
+# cleanup[2] removing _json
+# cleanup[2] removing json.scanner
+# cleanup[2] removing json.decoder
+# cleanup[2] removing json.encoder
+# cleanup[2] removing json
+# cleanup[2] removing mimetypes
+# cleanup[2] removing urllib3.fields
+# cleanup[2] removing urllib3.filepost
+# cleanup[2] removing urllib3.util.ssl_match_hostname
+# cleanup[2] removing urllib3.connection
+# cleanup[2] removing urllib3.response
+# cleanup[2] removing urllib3._request_methods
+# cleanup[2] removing urllib3.util.proxy
+# cleanup[2] removing urllib3.connectionpool
+# cleanup[2] removing urllib3.poolmanager
+# cleanup[2] removing urllib3
+# cleanup[2] removing selenium.webdriver.remote.utils
+# cleanup[2] removing selenium.webdriver.remote.command
+# cleanup[2] removing selenium.webdriver.remote.errorhandler
+# cleanup[2] removing importlib._abc
+# cleanup[2] removing importlib.util
+# cleanup[2] removing zipfile._path.glob
+# cleanup[2] removing zipfile._path
+# cleanup[2] removing zipfile
+# cleanup[2] removing importlib.resources._itertools
+# cleanup[2] removing importlib.resources.readers
+# cleanup[2] removing importlib.readers
+# cleanup[2] removing selenium.webdriver.remote.remote_connection
+# cleanup[2] removing selenium.webdriver.chromium.remote_connection
+# cleanup[2] removing sysconfig
+# cleanup[2] removing selenium.webdriver.common.selenium_manager
+# cleanup[2] removing selenium.webdriver.common.driver_finder
+# cleanup[2] removing copy
+# cleanup[2] removing pkgutil
+# cleanup[2] removing selenium.webdriver.common.bidi
+# cleanup[2] removing dataclasses
+# destroy dataclasses
+# cleanup[2] removing selenium.webdriver.common.bidi.session
+# cleanup[2] removing selenium.webdriver.common.bidi.script
+# cleanup[2] removing selenium.webdriver.common.by
+# cleanup[2] removing selenium.webdriver.common.print_page_options
+# cleanup[2] removing selenium.webdriver.common.timeouts
+# cleanup[2] removing selenium.webdriver.common.virtual_authenticator
+# cleanup[2] removing selenium.webdriver.support
+# cleanup[2] removing selenium.webdriver.remote.shadowroot
+# cleanup[2] removing selenium.webdriver.remote.webelement
+# cleanup[2] removing selenium.webdriver.support.relative_locator
+# cleanup[2] removing selenium.webdriver.common.fedcm
+# cleanup[2] removing selenium.webdriver.common.fedcm.account
+# cleanup[2] removing selenium.webdriver.common.fedcm.dialog
+# cleanup[2] removing selenium.webdriver.remote.bidi_connection
+# cleanup[2] removing selenium.webdriver.remote.fedcm
+# cleanup[2] removing selenium.webdriver.remote.file_detector
+# cleanup[2] removing selenium.webdriver.remote.locator_converter
+# cleanup[2] removing selenium.webdriver.remote.mobile
+# cleanup[2] removing _uuid
+# cleanup[2] removing uuid
+# cleanup[2] removing selenium.webdriver.remote.script_key
+# cleanup[2] removing selenium.webdriver.common.alert
+# cleanup[2] removing selenium.webdriver.remote.switch_to
+# cleanup[2] removing array
+# cleanup[2] removing websocket._exceptions
+# cleanup[2] removing websocket._utils
+# cleanup[2] removing websocket._abnf
+# cleanup[2] removing websocket._logging
+# cleanup[2] removing http.cookies
+# cleanup[2] removing websocket._cookiejar
+# cleanup[2] removing websocket._ssl_compat
+# cleanup[2] removing websocket._socket
+# cleanup[2] removing websocket._url
+# cleanup[2] removing websocket._http
+# cleanup[2] removing websocket._handshake
+# cleanup[2] removing websocket._core
+# cleanup[2] removing websocket._app
+# cleanup[2] removing websocket
+# destroy websocket
+# destroy websocket._exceptions
+# destroy websocket._utils
+# destroy websocket._abnf
+# destroy websocket._cookiejar
+# destroy websocket._ssl_compat
+# destroy websocket._socket
+# destroy websocket._url
+# destroy websocket._http
+# destroy websocket._handshake
+# destroy websocket._core
+# destroy websocket._app
+# cleanup[2] removing selenium.webdriver.remote.websocket_connection
+# cleanup[2] removing selenium.webdriver.remote.webdriver
+# cleanup[2] removing selenium.webdriver.chromium.webdriver
+# cleanup[2] removing selenium.webdriver.chrome.webdriver
+# cleanup[2] removing selenium.webdriver.common.actions
+# cleanup[2] removing selenium.webdriver.common.actions.interaction
+# cleanup[2] removing selenium.webdriver.common.actions.input_device
+# cleanup[2] removing selenium.webdriver.common.actions.key_input
+# cleanup[2] removing selenium.webdriver.common.actions.pointer_input
+# cleanup[2] removing selenium.webdriver.common.actions.wheel_input
+# cleanup[2] removing selenium.webdriver.common.actions.key_actions
+# cleanup[2] removing selenium.webdriver.common.actions.mouse_button
+# cleanup[2] removing selenium.webdriver.common.actions.pointer_actions
+# cleanup[2] removing selenium.webdriver.common.actions.wheel_actions
+# cleanup[2] removing selenium.webdriver.common.actions.action_builder
+# cleanup[2] removing selenium.webdriver.common.action_chains
+# cleanup[2] removing selenium.webdriver.edge
+# cleanup[2] removing selenium.webdriver.edge.options
+# cleanup[2] removing selenium.webdriver.edge.service
+# cleanup[2] removing selenium.webdriver.edge.webdriver
+# cleanup[2] removing selenium.webdriver.firefox
+# cleanup[2] removing xml
+# cleanup[2] removing xml.dom.domreg
+# cleanup[2] removing xml.dom
+# cleanup[2] removing xml.dom.minicompat
+# cleanup[2] removing xml.dom.NodeFilter
+# cleanup[2] removing xml.dom.xmlbuilder
+# cleanup[2] removing xml.dom.minidom
+# cleanup[2] removing typing_extensions
+# destroy typing_extensions
+# cleanup[2] removing selenium.webdriver.firefox.firefox_profile
+# cleanup[2] removing selenium.webdriver.firefox.firefox_binary
+# cleanup[2] removing selenium.webdriver.firefox.options
+# cleanup[2] removing selenium.webdriver.firefox.service
+# cleanup[2] removing selenium.webdriver.firefox.remote_connection
+# cleanup[2] removing selenium.webdriver.firefox.webdriver
+# cleanup[2] removing selenium.webdriver.ie
+# cleanup[2] removing selenium.webdriver.ie.options
+# cleanup[2] removing selenium.webdriver.ie.service
+# cleanup[2] removing selenium.webdriver.ie.webdriver
+# cleanup[2] removing selenium.webdriver.safari
+# cleanup[2] removing selenium.webdriver.safari.options
+# cleanup[2] removing selenium.webdriver.safari.service
+# cleanup[2] removing selenium.webdriver.safari.remote_connection
+# cleanup[2] removing selenium.webdriver.safari.webdriver
+# cleanup[2] removing selenium.webdriver.webkitgtk
+# cleanup[2] removing selenium.webdriver.webkitgtk.options
+# cleanup[2] removing selenium.webdriver.webkitgtk.service
+# cleanup[2] removing selenium.webdriver.webkitgtk.webdriver
+# cleanup[2] removing selenium.webdriver.wpewebkit
+# cleanup[2] removing selenium.webdriver.wpewebkit.options
+# cleanup[2] removing selenium.webdriver.wpewebkit.service
+# cleanup[2] removing selenium.webdriver.wpewebkit.webdriver
+# cleanup[2] removing selenium.webdriver
+# cleanup[2] removing soupsieve.__meta__
+# cleanup[2] removing soupsieve.util
+# cleanup[2] removing soupsieve.pretty
+# cleanup[2] removing soupsieve.css_types
+# cleanup[2] removing unicodedata
+# cleanup[2] removing soupsieve.css_match
+# cleanup[2] removing soupsieve.css_parser
+# cleanup[2] removing soupsieve
+# cleanup[2] removing bs4.css
+# cleanup[2] removing html.entities
+# cleanup[2] removing html
+# destroy html
+# cleanup[2] removing chardet.enums
+# cleanup[2] removing chardet.charsetprober
+# cleanup[2] removing chardet.charsetgroupprober
+# cleanup[2] removing chardet.resultdict
+# cleanup[2] removing chardet.codingstatemachinedict
+# cleanup[2] removing chardet.codingstatemachine
+# cleanup[2] removing chardet.escsm
+# cleanup[2] removing chardet.escprober
+# cleanup[2] removing chardet.latin1prober
+# cleanup[2] removing chardet.macromanprober
+# cleanup[2] removing chardet.big5freq
+# cleanup[2] removing chardet.euckrfreq
+# cleanup[2] removing chardet.euctwfreq
+# cleanup[2] removing chardet.gb2312freq
+# cleanup[2] removing chardet.jisfreq
+# cleanup[2] removing chardet.johabfreq
+# cleanup[2] removing chardet.chardistribution
+# cleanup[2] removing chardet.mbcharsetprober
+# cleanup[2] removing chardet.mbcssm
+# cleanup[2] removing chardet.big5prober
+# cleanup[2] removing chardet.cp949prober
+# cleanup[2] removing chardet.jpcntx
+# cleanup[2] removing chardet.eucjpprober
+# cleanup[2] removing chardet.euckrprober
+# cleanup[2] removing chardet.euctwprober
+# cleanup[2] removing chardet.gb2312prober
+# cleanup[2] removing chardet.johabprober
+# cleanup[2] removing chardet.sjisprober
+# cleanup[2] removing chardet.utf8prober
+# cleanup[2] removing chardet.mbcsgroupprober
+# cleanup[2] removing chardet.sbcharsetprober
+# cleanup[2] removing chardet.hebrewprober
+# cleanup[2] removing chardet.langbulgarianmodel
+# cleanup[2] removing chardet.langgreekmodel
+# cleanup[2] removing chardet.langhebrewmodel
+# cleanup[2] removing chardet.langrussianmodel
+# cleanup[2] removing chardet.langthaimodel
+# cleanup[2] removing chardet.langturkishmodel
+# cleanup[2] removing chardet.sbcsgroupprober
+# cleanup[2] removing chardet.utf1632prober
+# cleanup[2] removing chardet.universaldetector
+# cleanup[2] removing chardet.version
+# cleanup[2] removing chardet
+# cleanup[2] removing bs4.dammit
+# cleanup[2] removing bs4.formatter
+# cleanup[2] removing bs4.element
+# cleanup[2] removing _markupbase
+# cleanup[2] removing html.parser
+# cleanup[2] removing bs4.builder._htmlparser
+# cleanup[2] removing bs4.builder
+# cleanup[2] removing bs4
+# destroy selenium.webdriver
+# destroy selenium.webdriver.chrome
+# destroy selenium.webdriver.chrome.options
+# destroy selenium.webdriver.chrome.service
+# destroy selenium.webdriver.chrome.webdriver
+# destroy selenium.webdriver.chromium
+# destroy selenium.webdriver.chromium.options
+# destroy selenium.webdriver.chromium.remote_connection
+# destroy selenium.webdriver.chromium.webdriver
+# destroy selenium.webdriver.common
+# destroy selenium.webdriver.common.desired_capabilities
+# destroy selenium.webdriver.common.proxy
+# destroy selenium.webdriver.common.options
+# destroy selenium.webdriver.common.keys
+# destroy selenium.webdriver.common.selenium_manager
+# destroy selenium.webdriver.common.driver_finder
+# destroy selenium.webdriver.common.bidi
+# destroy selenium.webdriver.common.bidi.session
+# destroy selenium.webdriver.common.bidi.script
+# destroy selenium.webdriver.common.by
+# destroy selenium.webdriver.common.print_page_options
+# destroy selenium.webdriver.common.timeouts
+# destroy selenium.webdriver.common.virtual_authenticator
+# destroy selenium.webdriver.common.fedcm
+# destroy selenium.webdriver.common.fedcm.account
+# destroy selenium.webdriver.common.fedcm.dialog
+# destroy selenium.webdriver.common.alert
+# destroy selenium.webdriver.common.actions
+# destroy selenium.webdriver.common.actions.input_device
+# destroy selenium.webdriver.common.actions.key_input
+# destroy selenium.webdriver.common.actions.pointer_input
+# destroy selenium.webdriver.common.actions.wheel_input
+# destroy selenium.webdriver.common.actions.key_actions
+# destroy selenium.webdriver.common.actions.mouse_button
+# destroy selenium.webdriver.common.actions.pointer_actions
+# destroy selenium.webdriver.common.actions.wheel_actions
+# destroy selenium.webdriver.common.actions.action_builder
+# destroy selenium.webdriver.common.action_chains
+# destroy selenium.webdriver.remote
+# destroy selenium.webdriver.remote.client_config
+# destroy selenium.webdriver.remote.command
+# destroy selenium.webdriver.remote.errorhandler
+# destroy selenium.webdriver.remote.remote_connection
+# destroy selenium.webdriver.remote.shadowroot
+# destroy selenium.webdriver.remote.webelement
+# destroy selenium.webdriver.remote.bidi_connection
+# destroy selenium.webdriver.remote.fedcm
+# destroy selenium.webdriver.remote.file_detector
+# destroy selenium.webdriver.remote.locator_converter
+# destroy selenium.webdriver.remote.mobile
+# destroy selenium.webdriver.remote.script_key
+# destroy selenium.webdriver.remote.switch_to
+# destroy selenium.webdriver.remote.websocket_connection
+# destroy selenium.webdriver.remote.webdriver
+# destroy selenium.webdriver.support
+# destroy selenium.webdriver.support.relative_locator
+# destroy selenium.webdriver.edge
+# destroy selenium.webdriver.edge.options
+# destroy selenium.webdriver.edge.service
+# destroy selenium.webdriver.edge.webdriver
+# destroy selenium.webdriver.firefox
+# destroy selenium.webdriver.firefox.firefox_profile
+# destroy selenium.webdriver.firefox.firefox_binary
+# destroy selenium.webdriver.firefox.options
+# destroy selenium.webdriver.firefox.service
+# destroy selenium.webdriver.firefox.remote_connection
+# destroy selenium.webdriver.firefox.webdriver
+# destroy selenium.webdriver.ie
+# destroy selenium.webdriver.ie.options
+# destroy selenium.webdriver.ie.service
+# destroy selenium.webdriver.ie.webdriver
+# destroy selenium.webdriver.safari
+# destroy selenium.webdriver.safari.options
+# destroy selenium.webdriver.safari.service
+# destroy selenium.webdriver.safari.remote_connection
+# destroy selenium.webdriver.safari.webdriver
+# destroy selenium.webdriver.webkitgtk
+# destroy selenium.webdriver.webkitgtk.options
+# destroy selenium.webdriver.webkitgtk.service
+# destroy selenium.webdriver.webkitgtk.webdriver
+# destroy selenium.webdriver.wpewebkit
+# destroy selenium.webdriver.wpewebkit.options
+# destroy selenium.webdriver.wpewebkit.service
+# destroy selenium.webdriver.wpewebkit.webdriver
+# destroy _sitebuiltins
+# destroy subprocess
+# destroy sysconfig
+# destroy keyword
+# destroy selenium.webdriver.chromium.service
+# destroy selenium.webdriver.common.service
+# cleanup[3] wiping bs4
+# destroy bs4.css
+# destroy bs4.dammit
+# destroy bs4.formatter
+# destroy bs4.element
+# destroy bs4.builder
+# cleanup[3] wiping bs4.builder._htmlparser
+# cleanup[3] wiping html.parser
+# destroy _markupbase
+# cleanup[3] wiping chardet
+# destroy chardet.enums
+# destroy chardet.charsetprober
+# destroy chardet.charsetgroupprober
+# destroy chardet.resultdict
+# destroy chardet.codingstatemachinedict
+# destroy chardet.codingstatemachine
+# destroy chardet.escsm
+# destroy chardet.escprober
+# destroy chardet.latin1prober
+# destroy chardet.macromanprober
+# destroy chardet.big5freq
+# destroy chardet.euckrfreq
+# destroy chardet.euctwfreq
+# destroy chardet.gb2312freq
+# destroy chardet.jisfreq
+# destroy chardet.johabfreq
+# destroy chardet.chardistribution
+# destroy chardet.mbcharsetprober
+# destroy chardet.mbcssm
+# destroy chardet.big5prober
+# destroy chardet.cp949prober
+# destroy chardet.jpcntx
+# destroy chardet.eucjpprober
+# destroy chardet.euckrprober
+# destroy chardet.euctwprober
+# destroy chardet.gb2312prober
+# destroy chardet.johabprober
+# destroy chardet.sjisprober
+# destroy chardet.utf8prober
+# destroy chardet.mbcsgroupprober
+# destroy chardet.sbcharsetprober
+# destroy chardet.hebrewprober
+# destroy chardet.langbulgarianmodel
+# destroy chardet.langgreekmodel
+# destroy chardet.langhebrewmodel
+# destroy chardet.langrussianmodel
+# destroy chardet.langthaimodel
+# destroy chardet.langturkishmodel
+# destroy chardet.sbcsgroupprober
+# destroy chardet.utf1632prober
+# destroy chardet.universaldetector
+# destroy chardet.version
+# cleanup[3] wiping html.entities
+# cleanup[3] wiping soupsieve
+# destroy soupsieve.__meta__
+# destroy soupsieve.pretty
+# destroy soupsieve.css_parser
+# cleanup[3] wiping soupsieve.css_match
+# destroy bs4
+# cleanup[3] wiping unicodedata
+# destroy unicodedata
+# cleanup[3] wiping soupsieve.css_types
+# cleanup[3] wiping soupsieve.util
+# cleanup[3] wiping xml.dom.minidom
+# cleanup[3] wiping xml.dom.xmlbuilder
+# cleanup[3] wiping xml.dom.NodeFilter
+# cleanup[3] wiping xml.dom.minicompat
+# destroy xml
+# destroy xml.dom
+# cleanup[3] wiping xml.dom.domreg
+# cleanup[3] wiping selenium.webdriver.common.actions.interaction
+# cleanup[3] wiping http.cookies
+# cleanup[3] wiping websocket._logging
+# cleanup[3] wiping array
+# cleanup[3] wiping uuid
+# cleanup[3] wiping _uuid
+# destroy _uuid
+# cleanup[3] wiping pkgutil
+# destroy zipimport
+# cleanup[3] wiping copy
+# cleanup[3] wiping importlib.readers
+# cleanup[3] wiping importlib.resources.readers
+# cleanup[3] wiping importlib.resources._itertools
+# cleanup[3] wiping zipfile
+# destroy zipfile._path
+# destroy bz2
+# destroy lzma
+# cleanup[3] wiping zipfile._path.glob
+# cleanup[3] wiping importlib.util
+# cleanup[3] wiping importlib._abc
+# cleanup[3] wiping selenium.webdriver.remote.utils
+# cleanup[3] wiping urllib3
+# destroy urllib3._base_connection
+# destroy urllib3._collections
+# destroy urllib3._version
+# destroy urllib3._request_methods
+# destroy urllib3.exceptions
+# destroy urllib3.fields
+# destroy urllib3.filepost
+# destroy urllib3.connection
+# destroy urllib3.response
+# destroy urllib3.connectionpool
+# destroy urllib3.poolmanager
+# cleanup[3] wiping urllib3.util.proxy
+# cleanup[3] wiping urllib3.util.ssl_match_hostname
+# cleanup[3] wiping mimetypes
+# cleanup[3] wiping json
+# destroy json.decoder
+# destroy json.encoder
+# cleanup[3] wiping json.scanner
+# cleanup[3] wiping _json
+# cleanup[3] wiping queue
+# cleanup[3] wiping _queue
+# cleanup[3] wiping _heapq
+# destroy _heapq
+# cleanup[3] wiping urllib3.util
+# destroy urllib3.util.timeout
+# destroy urllib3.util.util
+# destroy urllib3.util.request
+# destroy urllib3.util.response
+# destroy urllib3.util.retry
+# destroy urllib3.util.url
+# destroy urllib3.util.ssltransport
+# destroy urllib3.util.wait
+# destroy urllib3.util.ssl_match_hostname
+# destroy urllib3.util.proxy
+# cleanup[3] wiping urllib3.util.ssl_
+# cleanup[3] wiping hmac
+# cleanup[3] wiping urllib3.util.connection
+# cleanup[3] wiping certifi
+# destroy certifi.core
+# cleanup[3] wiping importlib.resources
+# destroy importlib.resources._adapters
+# destroy importlib.resources._legacy
+# destroy importlib.resources._itertools
+# destroy importlib.resources.readers
+# cleanup[3] wiping importlib.resources._common
+# cleanup[3] wiping importlib.resources.abc
+# cleanup[3] wiping inspect
+# destroy ast
+# destroy dis
+# destroy importlib
+# destroy token
+# cleanup[3] wiping importlib.machinery
+# cleanup[3] wiping _opcode
+# cleanup[3] wiping pathlib
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# cleanup[3] wiping selenium.webdriver.common.utils
+# cleanup[3] wiping urllib.request
+# destroy bisect
+# cleanup[3] wiping urllib.error
+# cleanup[3] wiping urllib.response
+# cleanup[3] wiping tempfile
+# cleanup[3] wiping shutil
+# destroy fnmatch
+# cleanup[3] wiping _lzma
+# cleanup[3] wiping _bz2
+# cleanup[3] wiping _compression
+# cleanup[3] wiping zlib
+# cleanup[3] wiping posixpath
+# cleanup[3] wiping http.client
+# cleanup[3] wiping ssl
+# cleanup[3] wiping _ssl
+# cleanup[3] wiping email.message
+# destroy quopri
+# cleanup[3] wiping email.iterators
+# cleanup[3] wiping email._encoded_words
+# cleanup[3] wiping email.parser
+# cleanup[3] wiping email.feedparser
+# cleanup[3] wiping email._policybase
+# cleanup[3] wiping email.utils
+# destroy urllib
+# destroy urllib.response
+# destroy urllib.error
+# destroy urllib.request
+# cleanup[3] wiping email._parseaddr
+# destroy calendar
+# cleanup[3] wiping urllib.parse
+# destroy ipaddress
+# cleanup[3] wiping datetime
+# cleanup[3] wiping _datetime
+# cleanup[3] wiping socket
+# cleanup[3] wiping selectors
+# cleanup[3] wiping select
+# cleanup[3] wiping _socket
+# cleanup[3] wiping random
+# cleanup[3] wiping _sha2
+# cleanup[3] wiping _random
+# cleanup[3] wiping math
+# destroy math
+# cleanup[3] wiping email.header
+# cleanup[3] wiping email.charset
+# cleanup[3] wiping email.encoders
+# cleanup[3] wiping email.base64mime
+# cleanup[3] wiping email.quoprimime
+# cleanup[3] wiping email.errors
+# cleanup[3] wiping http
+# destroy http.cookies
+# cleanup[3] wiping hashlib
+# cleanup[3] wiping _blake2
+# cleanup[3] wiping _hashlib
+# cleanup[3] wiping email
+# destroy email._parseaddr
+# destroy email._policybase
+# destroy email._encoded_words
+# destroy email.errors
+# destroy email.quoprimime
+# destroy email.base64mime
+# destroy email.encoders
+# destroy email.charset
+# destroy email.header
+# destroy email.utils
+# destroy email.feedparser
+# destroy email.parser
+# destroy email.iterators
+# destroy email.message
+# cleanup[3] wiping _bisect
+# destroy _bisect
+# cleanup[3] wiping platform
+# cleanup[3] wiping _wmi
+# destroy _wmi
+# cleanup[3] wiping msvcrt
+# cleanup[3] wiping signal
+# cleanup[3] wiping locale
+# destroy encodings
+# cleanup[3] wiping _locale
+# destroy _locale
+# cleanup[3] wiping logging
+# destroy traceback
+# cleanup[3] wiping atexit
+# cleanup[3] wiping threading
+# cleanup[3] wiping string
+# cleanup[3] wiping _string
+# destroy _string
+# cleanup[3] wiping weakref
+# cleanup[3] wiping textwrap
+# cleanup[3] wiping linecache
+# destroy tokenize
+# cleanup[3] wiping _tokenize
+# cleanup[3] wiping errno
+# cleanup[3] wiping base64
+# cleanup[3] wiping binascii
+# cleanup[3] wiping struct
+# cleanup[3] wiping _struct
+# cleanup[3] wiping typing
+# cleanup[3] wiping _typing
+# cleanup[3] wiping warnings
+# cleanup[3] wiping re
+# destroy re._constants
+# destroy re._casefix
+# destroy re._compiler
+# destroy enum
+# destroy copyreg
+# cleanup[3] wiping re._parser
+# cleanup[3] wiping _sre
+# cleanup[3] wiping contextlib
+# cleanup[3] wiping functools
+# cleanup[3] wiping _functools
+# cleanup[3] wiping types
+# cleanup[3] wiping collections.abc
+# cleanup[3] wiping collections
+# destroy _collections_abc
+# destroy collections.abc
+# cleanup[3] wiping _collections
+# cleanup[3] wiping operator
+# cleanup[3] wiping _operator
+# cleanup[3] wiping itertools
+# cleanup[3] wiping encodings.utf_8_sig
+# cleanup[3] wiping os
+# cleanup[3] wiping os.path
+# destroy genericpath
+# cleanup[3] wiping ntpath
+# cleanup[3] wiping _winapi
+# cleanup[3] wiping stat
+# cleanup[3] wiping _stat
+# destroy _stat
+# cleanup[3] wiping io
+# cleanup[3] wiping abc
+# cleanup[3] wiping _abc
+# cleanup[3] wiping _signal
+# destroy _signal
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping time
+# cleanup[3] wiping _frozen_importlib_external
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping winreg
+# cleanup[3] wiping _weakref
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _datetime
+# destroy sys.monitoring
+# destroy winreg
+# destroy re._parser
+# destroy _collections
+# destroy _typing
+# destroy stat
+# destroy abc
+# destroy operator
+# destroy copy
+# destroy shutil
+# destroy tempfile
+# destroy base64
+# destroy certifi
+# destroy platform
+# destroy urllib.parse
+# destroy urllib3
+# destroy selenium.webdriver.remote.utils
+# destroy uuid
+# destroy selenium.webdriver.common.utils
+# destroy queue
+# destroy weakref
+# destroy soupsieve
+# destroy _opcode
+# destroy importlib.machinery
+# destroy importlib.resources
+# destroy importlib._abc
+# destroy importlib.util
+# destroy importlib.readers
+# destroy random
+# destroy linecache
+# destroy textwrap
+# destroy string
+# destroy chardet
+# destroy bs4.builder._htmlparser
+# destroy inspect
+# destroy websocket._logging
+# destroy pkgutil
+# destroy selenium.webdriver.common.actions.interaction
+# destroy urllib3.util.connection
+# destroy urllib3.util.ssl_
+# destroy _tokenize
+# destroy email
+# destroy mimetypes
+# destroy _hashlib
+# destroy ntpath
+# destroy _queue
+# destroy _weakref
+# destroy selectors
+# destroy _ssl
+# destroy http.client
+# destroy select
+# destroy collections
+# destroy json
+# destroy urllib3.util
+# destroy importlib.resources.abc
+# destroy importlib.resources._common
+# destroy atexit
+# destroy nt
+# destroy _blake2
+# destroy soupsieve.util
+# destroy soupsieve.css_match
+# destroy soupsieve.css_types
+# destroy struct
+# destroy _thread
+# destroy _frozen_importlib_external
+# destroy _imp
+# destroy marshal
+# destroy _warnings
+# destroy zlib
+# destroy _io
+# destroy _compression
+# destroy posixpath
+# destroy zipfile
+# destroy itertools
+# destroy pathlib
+# destroy zipfile._path.glob
+# destroy json.scanner
+# destroy _json
+# destroy _random
+# destroy hashlib
+# destroy hmac
+# destroy socket
+# destroy ssl
+# destroy functools
+# destroy logging
+# destroy typing
+# destroy _bz2
+# destroy _lzma
+# destroy errno
+# destroy io
+# destroy os
+# destroy signal
+# destroy threading
+# destroy contextlib
+# destroy time
+# destroy msvcrt
+# destroy http
+# destroy types
+# destroy array
+# destroy _struct
+# destroy _winapi
+# destroy xml.dom.domreg
+# destroy xml.dom.minicompat
+# destroy xml.dom.NodeFilter
+# destroy xml.dom.xmlbuilder
+# destroy xml.dom.minidom
+# destroy binascii
+# destroy datetime
+# destroy locale
+# destroy warnings
+# destroy _sha2
+# destroy html.entities
+# destroy html.parser
+# clear sys.meta_path
+# clear sys.modules
+# destroy _frozen_importlib
+# destroy _socket
+# destroy codecs
+# destroy encodings.aliases
+# destroy encodings.utf_8
+# destroy encodings.cp1252
+# destroy encodings.utf_8_sig
+# destroy _codecs
+# destroy re
+# destroy sys
+# destroy builtins
+# destroy _sre
+# destroy _abc
+# destroy _operator
+# destroy _functools
+# clear sys.audit hooks
